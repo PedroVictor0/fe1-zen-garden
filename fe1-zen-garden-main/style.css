@@ -1,0 +1,35 @@
+body {
+    
+    
+    font-family: 'Urbanist';
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: black;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Lucida Sans';
+    background-color: sandybrown;
+    border-radius: 699px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 33px;
+    font-family: 'Lucida Sans';
+
+}
+    
+h3 {
+    font-size: 20px;
+    font-family: 'Lucida Sans';
+}
+
