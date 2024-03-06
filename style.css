@@ -1,21 +1,22 @@
-html {
-   
+html { background-image: url(https://img.freepik.com/vetores-premium/abstrato-fundo-azul-claro-pano-de-fundo-para-cartoes-postais-e-banners-para-sites-de-outdoors-de-negocios-e-posteres-e-capas-ilustracao-vetorial-para-design-grafico_589396-668.jpg);
+    background-size: cover;
 }
 
 body {
-    
+   
     background-color: white;
     font-family: 'Urbanist';
     width: 1000px;
     margin: auto;
     margin-top: 50px;
     margin-bottom: 50px;
-    border-color: #c8d6c8;
+    border-color: hsl(4, 56%, 59%);
     border-style: solid;
     padding: 40px;
     border-radius: 20px;
-    outline: 1px solid #c8d6c8;
-    box-shadow: 0px 0px 40px  #c8d6c8
+    outline: 1px solid hsl(4, 56%, 59%);
+    box-shadow: 3px 3px 4px  hsla(4, 39%, 40%, 0.835)
+    
 
 }
 
@@ -26,29 +27,27 @@ h1 {
     padding-left: 30px;
     padding: 20px;
     font-family: 'Lucida Sans';
-    background-color: #afc2af;
+    color: #025959;
     border-radius:10px;
     display: inline-block;
     text-align: center;
-    text-shadow: 5px 5px 5px  #312f2f5c;
-    
-    
-    
+    text-shadow: 2px 1px 0px  #023f3fe6;
 }
 
 h2 {
+    color: #6CC5C6;
     font-size: 33px;
     font-family: 'Lucida Sans';
 
 }
     
-h3 {
+h3 {color: #9ED6D7;
     font-size: 20px;
     font-family: 'Lucida Sans';
 }
 
 a {
-    color:  rgb(0, 128, 255);
+    color:  hsla(4, 82%, 69%, 0.687);
     font-size: 17px;
 }
 
@@ -58,14 +57,11 @@ p{
     margin: 2px;
 }
 
-a:hover {
-    background-color: aqua;
-}
-
 a:visited{
-    color: aqua ;
+    color: blue;
 }
 
-cursor {
-    color: black;
-}
+
+    
+
+
